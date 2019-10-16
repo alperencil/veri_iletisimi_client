@@ -7,4 +7,4 @@
 
 ##### Client Tarafındaki kodlara Server/Server/Program.cs ulaşabilirsiniz.
 Kod Ekran Çıktısı:
-![alt text](https:// "Kodun Ekran Çıktısı")
+![alt text](https://github.com/alperencil/veri_iletisimi_client/blob/master/client.png "Kodun Ekran Çıktısı")
