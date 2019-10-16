@@ -1,0 +1,6 @@
+C:\Users\Alperen\source\repos\client\client\bin\Debug\client.exe.config
+C:\Users\Alperen\source\repos\client\client\bin\Debug\client.exe
+C:\Users\Alperen\source\repos\client\client\bin\Debug\client.pdb
+C:\Users\Alperen\source\repos\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\Alperen\source\repos\client\client\obj\Debug\client.exe
+C:\Users\Alperen\source\repos\client\client\obj\Debug\client.pdb
